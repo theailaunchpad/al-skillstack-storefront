@@ -1,0 +1,17 @@
+{
+  "name": "al-skillstack-storefront",
+  "description": "SkillStack plugins by AI Launchpad",
+  "owner": {
+    "name": "AI Launchpad"
+  },
+  "plugins": [
+    {
+      "name": "linear-pm",
+      "description": "Automated project management system for Linear. Create self-contained issues and projects that Claude Code can implement end-to-end without additional context.",
+      "source": {
+        "source": "npm",
+        "package": "@skillstack/theailaunchpad-linear-pm"
+      }
+    }
+  ]
+}
