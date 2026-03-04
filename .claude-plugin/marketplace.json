@@ -6,6 +6,14 @@
   },
   "plugins": [
     {
+      "name": "skillstack",
+      "description": "Install, update, and manage paid Claude Code plugins via SkillStack.",
+      "source": {
+        "source": "github",
+        "repo": "SkillStacks/skillstack"
+      }
+    },
+    {
       "name": "linear-pm",
       "description": "Automated project management system for Linear. Create self-contained issues and projects that Claude Code can implement end-to-end without additional context.",
       "source": {
