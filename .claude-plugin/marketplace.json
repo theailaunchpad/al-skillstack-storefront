@@ -9,8 +9,8 @@
       "name": "skillstack",
       "description": "Install, update, and manage paid Claude Code plugins via SkillStack.",
       "source": {
-        "source": "github",
-        "repo": "SkillStacks/skillstack"
+        "source": "url",
+        "url": "https://github.com/SkillStacks/skillstack.git"
       }
     },
     {
